@@ -9,10 +9,10 @@ Frameworks: Pygame(Python), Turtle(Python), Flutter(Dart)
 Email: atharvkarbhari123@gmail.com
 
 Social Handles:
-LinkedIn: https://www.linkedin.com/in/atharv-karbhari-05b9a81a8/
-Hackerrank: https://www.hackerrank.com/MasterMind404
-Codechef: https://www.codechef.com/users/atharv_mm404
-Codewars: https://www.codewars.com/users/akaMasterMind404
+- LinkedIn: https://www.linkedin.com/in/atharv-karbhari-05b9a81a8/
+- Hackerrank: https://www.hackerrank.com/MasterMind404
+- Codechef: https://www.codechef.com/users/atharv_mm404
+- Codewars: https://www.codewars.com/users/akaMasterMind404
 
 <!---
 AKAMasterMind404/AKAMasterMind404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
