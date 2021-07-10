@@ -1,6 +1,6 @@
 👋 Hi, I’m @AKAMasterMind404.
    
-My name is Atharv Karbhari. I am a 2nd year B.Tech CSE student studying at D.Y. Patil International University. 
+My name is Atharv Karbhari. I am a second year B.Tech CSE student studying at D.Y. Patil International University. 
 I am a passionate programmer who loves to automate boring stuff.
 I have worked on mobile applications,web applications, 3D Games using Unity and python scripts.
 
