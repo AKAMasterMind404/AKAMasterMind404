@@ -6,7 +6,7 @@ I have worked on mobile applications,web applications, 3D Games using Unity and 
 
 Languages Known: C,C++,C#, Python, Java, HTML, CSS, Dart, SQL
    
-Frameworks: Pygame(Python), Turtle(Python), Flutter(Dart)
+Frameworks: Pygame(Python), Selenium(Python), Turtle(Python), Flutter(Dart)
 
 Email: atharvkarbhari123@gmail.com
 
