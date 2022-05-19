@@ -4,7 +4,7 @@ My name is Atharv Karbhari. I am a third year B.Tech CSE student studying at D.Y
 I am a passionate programmer who loves to automate boring stuff.
 I have worked on mobile applications,web applications, 3D Games using Unity and python scripts.
 
-Languages Known: C,C++,C#, Python, Java, HTML, CSS, Dart, SQL
+Languages Known: C,C++,C#, Python, Java, HTML, CSS, Dart, SQL, Kotlin
    
 Frameworks: Pygame(Python), Selenium(Python), Turtle(Python), Flutter(Dart)
 
