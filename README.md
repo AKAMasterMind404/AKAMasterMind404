@@ -21,7 +21,6 @@ Email: atharvkarbhari123@gmail.com
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/github/github-original.svg" alt = "Github Logo" width = "50" height= "50" /><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/nodejs/nodejs-plain.svg" alt = "NodeJS Logo" width = "50" height= "50" /><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/mongodb/mongodb-original-wordmark.svg" alt = "MongoDB Logo" width = "50" height= "50" /><br>
-<img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" alt = "Typescript Logo" width = "50" height= "50" />
 
 Social Handles:
 - LinkedIn: https://www.linkedin.com/in/atharv-karbhari-05b9a81a8/
