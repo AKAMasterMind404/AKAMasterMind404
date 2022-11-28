@@ -1,12 +1,13 @@
 👋 Hi, I’m @AKAMasterMind404.
    
-My name is Atharv Karbhari. I am a third year B.Tech CSE student studying at D.Y. Patil International University. 
-I am a passionate programmer who loves to automate boring stuff.
-I have worked on mobile applications,web applications, 3D Games using Unity and python scripts.
+My name is Atharv Karbhari. I am a final year B.Tech CSE student studying at D.Y. Patil International University. 
+I am a programmer by passion and a versatile software engineer by profession dedicated to solving real-world problems. 
+My superpowers include scripting in Python and developing Mobile applications using Flutter/Kotlin.
+I am currently inclined toward Backend Development and Automation Scripting.
 
-Languages Known: C,C++,C#, Python, Java, HTML, CSS, Dart, SQL, Kotlin
+Languages Known: PHP, Dart, Python, Java, Javascript, Typescript, C,C++,C#, HTML, CSS, SQL, Kotlin
    
-Frameworks: Pygame(Python), Selenium(Python), Turtle(Python), Flutter(Dart)
+Frameworks: MERN Stack(Node.Js, Express, MongoDB), Pygame(Python), Selenium(Python), Turtle(Python), Flutter(Dart)
 
 Email: atharvkarbhari123@gmail.com
 
