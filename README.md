@@ -1,9 +1,8 @@
 👋 Hi, I’m @AKAMasterMind404.
    
-My name is Atharv Karbhari. I am a final year B.Tech CSE student studying at D.Y. Patil International University. 
-I am a programmer by passion and a versatile software engineer by profession dedicated to solving real-world problems. 
-My superpowers include scripting in Python and developing Mobile applications using Flutter/Kotlin.
-I am currently inclined toward Backend Development and Automation Scripting.
+A programmer by passion, a versatile software engineer by profession dedicated to solving real-world problems. <br>
+My superpowers include scripting in Python and developing Mobile applications using Flutter/Kotlin I am currently <br>
+inclined toward Backend Development and Automation Scripting. <br>
 
 Languages Known: PHP, Dart, Python, Java, Javascript, Typescript, C,C++,C#, HTML, CSS, SQL, Kotlin
    
